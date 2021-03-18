@@ -2,3 +2,18 @@
 git config --global user.name "Your Name"
 git config --global user.email "Your eamil"
 
+再比如
+git clone  (reposityURL)仓库地址
+git add filename
+git commit -m ""
+
+要关联一个远程库
+git remote add origin
+
+git push  origin master(branch name)  推送远程库  -u ：第一次推送
+
+
+
+
+
+
